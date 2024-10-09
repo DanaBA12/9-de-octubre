@@ -1,0 +1,21 @@
+  /* ESTILOS DE LA PAGINA EN GENERAL */
+  p {
+    /*font-family: 'Poppins', sans-serif;
+      font-family: 'Lora', serif;;
+      /* font-family: 'Work Sans', sans-serif;*/
+    font-family: "Italianno", cursive;
+    padding: 20px;
+    font-size: 15px;
+    text-align: justify;
+    margin: 15px 25px;
+  }
+  h2 {
+    font-family: "Work Sans", sans-serif;
+    margin: 5px 5px;
+    text-align: justify;
+    padding: auto;
+  }
+  h3{
+    padding: auto;
+    text-align: justify;
+  }

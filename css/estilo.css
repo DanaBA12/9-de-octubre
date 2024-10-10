@@ -40,7 +40,7 @@ body {
   }
   
   .menu a:hover {
-    color: #e85860;
+    color: #cae5ff;
   }
   
   header {
@@ -58,7 +58,7 @@ body {
     right: 20px;
   }
   .btn:hover > span {
-    background-color: #e85860;
+    background-color: #7dc6f7;
   }
   .btn span {
     display: block;
@@ -100,4 +100,5 @@ body {
   p {
     font-family: "Poppins", sans-serif;
     padding: 20px;
+    text-align: justify;
   }

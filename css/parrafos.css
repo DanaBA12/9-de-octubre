@@ -4,18 +4,27 @@
       font-family: 'Lora', serif;;
       /* font-family: 'Work Sans', sans-serif;*/
     font-family: "Italianno", cursive;
-    padding: 20px;
+    padding: 5px;
     font-size: 15px;
     text-align: justify;
-    margin: 15px 25px;
+    margin: 50px;
   }
   h2 {
     font-family: "Work Sans", sans-serif;
-    margin: 5px 5px;
+    margin: 25px 25px;
     text-align: justify;
     padding: auto;
   }
   h3{
     padding: auto;
     text-align: justify;
+    margin: 50px;
   }
+  .p1 {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.p2 {
+    margin-left: 60px;
+    margin-right: 70px;
+}

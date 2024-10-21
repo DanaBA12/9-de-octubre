@@ -100,8 +100,25 @@ video {
       max-height: 500px;
     }
   }
-  
-  p {
+  .gallery-vertical {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
+
+  .gallery-item {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.247);
+    text-align: center;
+    background-color: #fdfdfd;
+    padding: 10px;
+  }
+  .imagen-derecha {
+    height: 250px;
+    width: 350px;
+    margin-left: 70px;
+    border-style: double ;
+ }
+p {
     font-family: "Poppins", sans-serif;
     padding: 20px;
     text-align: justify;
